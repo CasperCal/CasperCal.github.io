@@ -64,3 +64,15 @@ nav {
 	background-color:#00827F;
 	color:#414141;
 }
+
+footer{
+  position: fixed;
+  bottom: 0;
+  padding: 0px 10px 0px 10px;
+  line-height: 40px;
+  background-color: #939799;
+}
+
+.copyright{
+  text-align: left;
+}
